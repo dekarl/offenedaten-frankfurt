@@ -1,0 +1,4864 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.48569537486979, 50.0953781576282]},
+        "properties": {"name": "Alte Krifteler Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.48782196546719, 50.0951627971671]},
+        "properties": {"name": "Welschgraben Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.48999714082341, 50.0943182828683]},
+        "properties": {"name": "Welschgrabenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49272571271837, 50.093997590232]},
+        "properties": {"name": "Zeilsheim Alter Friedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49365845476265, 50.0930127167774]},
+        "properties": {"name": "Blauländchenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.4961388089998, 50.099029093982]},
+        "properties": {"name": "Pflugspfad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49622837111376, 50.1011512156528]},
+        "properties": {"name": "Taunusblick"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49643736172211, 50.093213599959]},
+        "properties": {"name": "Detmolder Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49767494369813, 50.095142906711]},
+        "properties": {"name": "Frankenthaler Weg Neu Zeilsheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49784470877678, 50.1002951388602]},
+        "properties": {"name": "Rombergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49913241918208, 50.0907349139284]},
+        "properties": {"name": "Steinrutsch"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.49979545127094, 50.0941631165091]},
+        "properties": {"name": "Zeilsheim Spielplatz Ecke Neu Zeilsheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50018999456047, 50.0992264099036]},
+        "properties": {"name": "Bechtenwaldstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50134266232802, 50.0918592374135]},
+        "properties": {"name": "Blankenburger Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50437594291028, 50.0917823202356]},
+        "properties": {"name": "West-Höchster-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50490650004624, 50.1013233956781]},
+        "properties": {"name": "Am Lachgraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5061582536221, 50.0883286072962]},
+        "properties": {"name": "Paul-Kirchof-Platz an Schulbaracken"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50685720945654, 50.0978344335394]},
+        "properties": {"name": "Pfaffenwiese / Lenzenbergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50705676423327, 50.0879188664413]},
+        "properties": {"name": "Paul-Kirchhof-Platz Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5077602151234, 50.0860878067459]},
+        "properties": {"name": "Hugo-Kallenbach-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50900119752502, 50.0795030847693]},
+        "properties": {"name": "Am Hofheimer Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.50979373585533, 50.0894678136374]},
+        "properties": {"name": "Sindlingen, ehemalige Kiesgrube"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51018474918342, 50.0826367501256]},
+        "properties": {"name": "Kleingartenpark Sindlingen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51008271180861, 50.099502319355]},
+        "properties": {"name": "Friedenau"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51078215657125, 50.0815963802611]},
+        "properties": {"name": "Hoechster-Farben-Str. Grünstreifen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51098316574749, 50.0796912578256]},
+        "properties": {"name": "Westenbergerstrasse Ecke Steinmetzstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51165328312943, 50.0879922320179]},
+        "properties": {"name": "Richard-Weidlich Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51303311455613, 50.0842040733016]},
+        "properties": {"name": "Höchster Farbenstrasse Am Sportplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51359087627624, 50.0815542382892]},
+        "properties": {"name": "Grünzug Hermann Brill"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51397341467536, 50.0782653460527]},
+        "properties": {"name": "Allesinastrasse mit Kriegerdenkmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.514601031885, 50.0852894882457]},
+        "properties": {"name": "Sindlingen Kreisel West"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5156006651936, 50.0734442871137]},
+        "properties": {"name": "Okrifteler Strasse/ B 40"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.516642370718, 50.0698704361822]},
+        "properties": {"name": "Roter Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51737144214473, 50.0807339057229]},
+        "properties": {"name": "Sindlinger Bahnstrasse Vor dem Hotel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5187499594175, 50.0811981390373]},
+        "properties": {"name": "Farbenstr. Sindlingen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51874971158784, 50.082618623904]},
+        "properties": {"name": "Grünverbindung Mainanlage-Pfingstbornstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.51873165310787, 50.0927956910487]},
+        "properties": {"name": "Höchster Farben Str. Von Leuna- Kreisel bis Kreis"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52075335632339, 50.0806490196395]},
+        "properties": {"name": "Feierabendweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52347065258704, 50.0714989607972]},
+        "properties": {"name": "Sindlinger Mainufer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52444355849273, 50.1115372053172]},
+        "properties": {"name": "Schmalkaldener Strasse/ A66"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52594449097763, 50.1096104121523]},
+        "properties": {"name": "Schmalkaldener Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52814315836488, 50.1120647473428]},
+        "properties": {"name": "Geißspitze"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52879876053348, 50.1050908793404]},
+        "properties": {"name": "Hunsrueckstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52890962592696, 50.1108901207211]},
+        "properties": {"name": "Graubner Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.52936704713749, 50.1127170202009]},
+        "properties": {"name": "Sportanlage Unterliederbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53123005934456, 50.1109174912836]},
+        "properties": {"name": "Liederbacher Strasse / Heugasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5318444140017, 50.1095624236243]},
+        "properties": {"name": "Wartburgstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53436286627485, 50.1064618798808]},
+        "properties": {"name": "Otto-Ernst-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53433327529785, 50.1152813130864]},
+        "properties": {"name": "Königssteiner Straße ecke Cheruskerweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53447267630109, 50.109555008534]},
+        "properties": {"name": "Wasgaustrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53487352125826, 50.1042522935408]},
+        "properties": {"name": "Peter-Biedstrasse Bunkerbegrünung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53588284470208, 50.1082930105231]},
+        "properties": {"name": "Am Liederbach zwischen Johannesallee und Liederbacher Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53627670172399, 50.1152800991125]},
+        "properties": {"name": "Engelsruhe"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53810268860939, 50.1144063204749]},
+        "properties": {"name": "Chattenweg/ Langobardenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53835751692024, 50.1155311289322]},
+        "properties": {"name": "An Engelsruhe 67a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53855879795493, 50.1033140158308]},
+        "properties": {"name": "Gebeschusstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53881909461363, 50.1067763449527]},
+        "properties": {"name": "Am Liederbach zwischen Peter-Bied und Johannisallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53933645041986, 50.1169644833025]},
+        "properties": {"name": "Cheruskerweg Straßenspielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.53997811254449, 50.099606619226]},
+        "properties": {"name": "Leunastr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54015325247246, 50.1032124561555]},
+        "properties": {"name": "Adelonstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54027986858507, 50.101666612027]},
+        "properties": {"name": "Adolf-Häuser-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54137194918697, 50.1117221681328]},
+        "properties": {"name": "Grauer Stein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54188062825786, 50.1140886416473]},
+        "properties": {"name": "Rugierstraße an Haus 66"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54228718483795, 50.0978356473392]},
+        "properties": {"name": "Höchst Alter Friedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5422217641694, 50.1179018991556]},
+        "properties": {"name": "Cheruskerweg Bolzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54237460666664, 50.1018636839517]},
+        "properties": {"name": "Dalbergstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54470889808627, 50.0767806538216]},
+        "properties": {"name": "Kelsterbacher Knoten Plan 1"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54485294107657, 50.0984570786561]},
+        "properties": {"name": "Rudolf-Schäfer-Anlage (Stadtgarten)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54494491063258, 50.1123565587301]},
+        "properties": {"name": "Sieringstrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54551347208522, 50.1025053378503]},
+        "properties": {"name": "Bruno-Asch-Anlage/Dalbergplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54581904384736, 50.0820084328012]},
+        "properties": {"name": "Albertslach Schwanheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54571584591764, 50.0973636305391]},
+        "properties": {"name": "Brüningpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.546422637127, 50.0994791340334]},
+        "properties": {"name": "Wed"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54688140879545, 50.0982582328]},
+        "properties": {"name": "Höchst Burggraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54769683646604, 50.0977489598355]},
+        "properties": {"name": "Mainufer Höchst"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54809763005386, 50.1130880986757]},
+        "properties": {"name": "Vor Windthorststrasse 113"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54818944585636, 50.1063007283797]},
+        "properties": {"name": "Höchst Gerlachstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54842619804974, 50.1049081413085]},
+        "properties": {"name": "Konrad-Glatt Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5485822490961, 50.0987143764402]},
+        "properties": {"name": "Justinuskirchgarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54906184502357, 50.1131367984936]},
+        "properties": {"name": "Windthorststraße an Haus 100"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54913427844784, 50.1128673688578]},
+        "properties": {"name": "Windthorststraße an Haus 94"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.54924445488697, 50.1070869906087]},
+        "properties": {"name": "Höchst Gerlachstrasse vor der Robert-Blum-Schule"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5494646260417, 50.1029882342299]},
+        "properties": {"name": "Kasinostraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5502077703205, 50.0997545782619]},
+        "properties": {"name": "Mainberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55037226845133, 50.0971120422781]},
+        "properties": {"name": "Höchster Fähre"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55029918520784, 50.113878806059]},
+        "properties": {"name": "Sossenheimer Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5508877571117, 50.1062572529454]},
+        "properties": {"name": "Robert-Bunsenstraße Bunkerbegrünung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55171030994681, 50.1094879738724]},
+        "properties": {"name": "Kurmainzer Vorplatz Friedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55215973315552, 50.1032683705645]},
+        "properties": {"name": "Ludwig-Scriba-Strasse / Ecke Zuckschwerdtstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55245400271859, 50.1046899843734]},
+        "properties": {"name": "Palleskestrasse 14 Sozialstation Höchst"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55267279956031, 50.1007080902081]},
+        "properties": {"name": "Bolongarogarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5534390986876, 50.0904440162424]},
+        "properties": {"name": "Wanderweg Höchster Fähre-Schwanheimer Wald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55597947107263, 50.1104213926302]},
+        "properties": {"name": "Höchster Stadtpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55621791330945, 50.1027714986467]},
+        "properties": {"name": "Vor der Gipsmühle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55710128452538, 50.1191463234857]},
+        "properties": {"name": "Dunantsiedlung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5576629363189, 50.1219264818135]},
+        "properties": {"name": "Parkanlage Sulzbachtal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55789204071493, 50.1031195186679]},
+        "properties": {"name": "Ludwig- Scriba-Str."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55941870136624, 50.0997359483829]},
+        "properties": {"name": "Wörthspitze"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5596639880097, 50.1171961715006]},
+        "properties": {"name": "Am Kapellenberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.55991106353683, 50.1009155551173]},
+        "properties": {"name": "Nied Grünzug an der Nidda"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56122114029326, 50.1120416000428]},
+        "properties": {"name": "Auf der Weide (ehem. Kirschenallee)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56261916885713, 50.089013523714]},
+        "properties": {"name": "Am Schwanheimer Dünenteich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56257642417796, 50.1029214893198]},
+        "properties": {"name": "Holzlachstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56263505855306, 50.1195089283231]},
+        "properties": {"name": "Schaumburger Strasse Am Sulzbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56352981984448, 50.1164465845875]},
+        "properties": {"name": "Am Brünnchen Sossenheimer Vorflutkanal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56357998408863, 50.124771834855]},
+        "properties": {"name": "Renneroder Strasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56389027000486, 50.101389076621]},
+        "properties": {"name": "Auf der Schanz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56392723123127, 50.1080960328233]},
+        "properties": {"name": "Höchst Am Strandbad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56438690507984, 50.119065994921]},
+        "properties": {"name": "Grünzug Am Sulzbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56492814069799, 50.1009973931419]},
+        "properties": {"name": "Nied Kerbeplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56567971612473, 50.1013508312626]},
+        "properties": {"name": "Niddaschule Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56587791479854, 50.1026192153518]},
+        "properties": {"name": "Denzerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56719401565664, 50.124093102584]},
+        "properties": {"name": "Robert-Dißmannstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.568512996092, 50.126705208629]},
+        "properties": {"name": "Cäcilia-Lauth-Spielpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.56967756994838, 50.0825847894667]},
+        "properties": {"name": "Kauber Weg Ecke Oestricher Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57006877814262, 50.0950828878559]},
+        "properties": {"name": "Wörthspitze II"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57010265618021, 50.1084786722134]},
+        "properties": {"name": "Nidda / Nied Altarm 22"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5702505386696, 50.1028872099953]},
+        "properties": {"name": "S-Bahnstation Nied"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57026537196366, 50.1199779396346]},
+        "properties": {"name": "Am Salusbach Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57138448713331, 50.082321390832]},
+        "properties": {"name": "Rheinlandstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57175572861041, 50.1018139256437]},
+        "properties": {"name": "Luthmerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57188869940443, 50.0868903748305]},
+        "properties": {"name": "Geisenheimer Straße Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57182979462121, 50.1091863013601]},
+        "properties": {"name": "Nidda / Sossenheim ( Der mittlere Sand )"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57224280398914, 50.0957741859677]},
+        "properties": {"name": "Nieder Kirchweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57279011047559, 50.0908045164263]},
+        "properties": {"name": "Schwanheimer Brücke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57341363822471, 50.1260310557128]},
+        "properties": {"name": "Carl-Sonnenschein -Siedlung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57395347063103, 50.0967154747978]},
+        "properties": {"name": "Nied Süd zwischen Alzeyerstr. und Landauer Str."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57406706538906, 50.1028203577745]},
+        "properties": {"name": "Nied Im Sechsholder zwischen Hausnummer 54 und 56"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57412341275403, 50.109077860464]},
+        "properties": {"name": "Nidda/Nied Altarm 21"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57452988514053, 50.0852818110709]},
+        "properties": {"name": "An der Kreuzheck"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57456149079133, 50.1038111110964]},
+        "properties": {"name": "Auf dem Gleichen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57491892084558, 50.0886905963907]},
+        "properties": {"name": "Geisenheimer Strasse 3"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5748705823954, 50.0988945080482]},
+        "properties": {"name": "Nied Bildäckerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57498753265584, 50.0872523842815]},
+        "properties": {"name": "Deidesheimer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57524345268737, 50.0930790947357]},
+        "properties": {"name": "Schwanheimer Brücke Bolzplatz und Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57518407165268, 50.1013769992562]},
+        "properties": {"name": "Im Sechsholder vor Hausnummer 39 bis 47"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57557685439699, 50.0917227651627]},
+        "properties": {"name": "Mainufer Schwanheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57569608521158, 50.0845488656832]},
+        "properties": {"name": "Martin-Heinrich-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57625367229568, 50.0831124376543]},
+        "properties": {"name": "Lönsweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57655304915875, 50.0840215604248]},
+        "properties": {"name": "Tannenwaldplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5766894033428, 50.0796437306042]},
+        "properties": {"name": "Schwanheimer Bahnstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57659389577959, 50.0968330169716]},
+        "properties": {"name": "Alzeyer Strasse und Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57658288422521, 50.0980826397032]},
+        "properties": {"name": "Nied Süd zwischen Dürkheimer Strasse und Alzeyerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57697828001047, 50.0960342738903]},
+        "properties": {"name": "Marschallwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57752888972613, 50.1144755236517]},
+        "properties": {"name": "Speierling Allee Sossenheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57824894870184, 50.0993473556341]},
+        "properties": {"name": "Nördlich Fridjof-Nansen-Schule"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57848830918325, 50.1102984937976]},
+        "properties": {"name": "Nidda/Nied Altarm 20"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57895019021679, 50.1022627817932]},
+        "properties": {"name": "Birminghamstrasse Am Altersheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57902343990552, 50.0970935808556]},
+        "properties": {"name": "Nied Süd Bolzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.57905630060448, 50.1124852110854]},
+        "properties": {"name": "Nidda /Sossenheim Altarm 19"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58031429416477, 50.1045153123751]},
+        "properties": {"name": "Werner-Bockelmann-Strasse 69"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58057005798459, 50.0880278768123]},
+        "properties": {"name": "Eifelstraße Am alten Brückenkopf"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58072796788451, 50.1035638274905]},
+        "properties": {"name": "Werner- Bockelmannstrasse südlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58108438339912, 50.1027649707699]},
+        "properties": {"name": "Kurt-Blaumstrasse östlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58119190999037, 50.0952404129557]},
+        "properties": {"name": "Fritz-Klatte-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58227048438316, 50.1046032788696]},
+        "properties": {"name": "Werner-Bockelmann-Strasse 117"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58229695480401, 50.104774191079]},
+        "properties": {"name": "Werner-Bockelmannstrasse an der Eisenbahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58316101522998, 50.0825171025717]},
+        "properties": {"name": "Rheinlandstrasse entlang der Straßenbahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58308929086297, 50.1117265885321]},
+        "properties": {"name": "Nidda /Nied Altarm 18"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58313643656826, 50.1191797590482]},
+        "properties": {"name": "Bohnengelände"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58369405610836, 50.1016325783741]},
+        "properties": {"name": "Mainzer Landstrasse nördlich der B 40a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58408282921401, 50.0987031092885]},
+        "properties": {"name": "In der unteren Lachwies"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58476393836264, 50.1104559575155]},
+        "properties": {"name": "Am Selzerbrunnen Waldspielpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58546255292765, 50.1040213530245]},
+        "properties": {"name": "Werner-Bockelmannstr. Ost"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58549261737814, 50.1053969865616]},
+        "properties": {"name": "Ferdinand-Scholl-Ring Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58589889354116, 50.113399856527]},
+        "properties": {"name": "Nidda /Sossenheim Altarm 17"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5869703249867, 50.1253698205296]},
+        "properties": {"name": "Mitten im Feld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.58856462959986, 50.0878227291073]},
+        "properties": {"name": "Schwanheimer Ufer von Schwanheimer Brücke bis Autobahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5903470887116, 50.0869030207311]},
+        "properties": {"name": "Grünstreifen am K.G. V. Schwanheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59064310535037, 50.1030058379253]},
+        "properties": {"name": "Eichhörnchenpfad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59064484387309, 50.1126435117126]},
+        "properties": {"name": "Nidda/ Nied Altarm 16"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59090056891504, 50.1285752985703]},
+        "properties": {"name": "Vogelschutzgehölz Rödelheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59133595490849, 50.0856388595623]},
+        "properties": {"name": "Henriette-Fürth-Strasse Bolzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59237984008934, 50.0861190197565]},
+        "properties": {"name": "Henriette- Fürth- Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59260159144975, 50.1011696993347]},
+        "properties": {"name": "Jägerallee zwischen Elster- und Wildentenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.5933244166242, 50.0867786306065]},
+        "properties": {"name": "Rheinlandstrasse An der Abzweigung Schwanheimer Ufer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59340330959721, 50.0807553400954]},
+        "properties": {"name": "Hartweg Eichwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59458022495277, 50.0820181116731]},
+        "properties": {"name": "Harthweg Goldstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59474111286634, 50.1010513203791]},
+        "properties": {"name": "Marderweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59504064714147, 50.1136029099956]},
+        "properties": {"name": "Nidda /Griesheim (Ehem.Freibad Am Neufeld)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59609030042649, 50.0985117454076]},
+        "properties": {"name": "Grünzug zwischen Mainzer Landstrasse und Ahornstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59626700548248, 50.1040953800256]},
+        "properties": {"name": "Foockenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59642554603673, 50.1135088369461]},
+        "properties": {"name": "Am Neufeld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59709877829484, 50.103253174316]},
+        "properties": {"name": "Linnegraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59782852603846, 50.0845377291466]},
+        "properties": {"name": "Goldstein Siedlung Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59790787114633, 50.1117968212321]},
+        "properties": {"name": "Neufeld Grünstreifen entlang der Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59834344671363, 50.1048487807396]},
+        "properties": {"name": "Griesheimer Wäldchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.59958808974892, 50.0812982764312]},
+        "properties": {"name": "An der Herrenwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60066788830155, 50.0791353081534]},
+        "properties": {"name": "Grünanlage Am Bickenbacher Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60023579311079, 50.1646589069334]},
+        "properties": {"name": "Vogelschutzgehölz Flur 32 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60074844276678, 50.1249415130474]},
+        "properties": {"name": "Zentmarkweg Grünstreifen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60130174633025, 50.1037801311381]},
+        "properties": {"name": "Foockenstr. an Hs Nr. 79 Spielpl. 242"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60164153323027, 50.0779699000748]},
+        "properties": {"name": "Goldstein - Süd Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60229167567807, 50.1614654255993]},
+        "properties": {"name": "Vogelschutzgehölz Flur 33 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60372352724455, 50.0779230820628]},
+        "properties": {"name": "Am Försterpfad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60403956685906, 50.0853502301893]},
+        "properties": {"name": "Sonnenweg / Tannenkopfweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60412303541696, 50.0786077156295]},
+        "properties": {"name": "Am Försterpfad Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6042742982946, 50.0839934808031]},
+        "properties": {"name": "Tannenkopfweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60388079584773, 50.1418989907133]},
+        "properties": {"name": "Fritz-Schumacher-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60470861865544, 50.1195248954721]},
+        "properties": {"name": "zwischen Biedenkopfer Weg und Breidensteiner Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60512116318831, 50.1271680834754]},
+        "properties": {"name": "Glashütterstr. ( Breitlacher Spange )"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6056234237846, 50.0796377274473]},
+        "properties": {"name": "Strassburger Strasse westlich Autobahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60560072012212, 50.0909205941842]},
+        "properties": {"name": "Griesheim, Jungmannstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60557458175656, 50.1162373739922]},
+        "properties": {"name": "Dammgraben zwischen Rödelheim und Wiesbadener Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60597205947018, 50.1410610146718]},
+        "properties": {"name": "Theodor- Fischer-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60597371741106, 50.1425624014288]},
+        "properties": {"name": "Camillo-Sitte-Weg (Nord)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60652217038833, 50.0807825575538]},
+        "properties": {"name": "Am Wiesenhof Goldstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60638960151902, 50.0969737966641]},
+        "properties": {"name": "Waldschulstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60664218626785, 50.0985569583744]},
+        "properties": {"name": "Waldschulstrasse bis Kiefernstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60679416504659, 50.0902323819342]},
+        "properties": {"name": "Griesheimer Ufer (westl. Autobahn)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.606680668341, 50.1245841598456]},
+        "properties": {"name": "Rödelheim S-Bahnhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60654554781793, 50.1444792743924]},
+        "properties": {"name": "Praunheim zwischen Heerstrasse und verlaengerten Messelweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60641490318702, 50.1689234116181]},
+        "properties": {"name": "Vogelschutzgehölz Flur 31 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60719161405503, 50.0911867079012]},
+        "properties": {"name": "Alte Falterstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6073078676243, 50.0820888253251]},
+        "properties": {"name": "Goldsteinpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60754783312536, 50.1416686998702]},
+        "properties": {"name": "Camillo-Sitte-Weg (Süd)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60802269997868, 50.1195001664889]},
+        "properties": {"name": "Breitlacher Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60843078685136, 50.0797371328694]},
+        "properties": {"name": "Goldstein-Süd ÷stl. Kita"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60836996927233, 50.0974929437255]},
+        "properties": {"name": "Waldschulstrasse vor August-Zinn-Schule"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60856815976369, 50.0783081220457]},
+        "properties": {"name": "Am Wildpfad Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6087735934824, 50.0942667590706]},
+        "properties": {"name": "Waldschulstrasse/ Omegabrücke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60981444994431, 50.0934431462421]},
+        "properties": {"name": "Am Gemeindegarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.60998705108284, 50.0842285792135]},
+        "properties": {"name": "Tränkweg Goldstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61007356013382, 50.1200644711113]},
+        "properties": {"name": "Rödelheim ehemaliges Freibad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61054016356241, 50.0866668320415]},
+        "properties": {"name": "Grünstreifen am K.G. V. Westend und Goldstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61018884537047, 50.1454715005491]},
+        "properties": {"name": "Olbrichstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61071733215442, 50.0958466074992]},
+        "properties": {"name": "Espenstr, Schwarzerlenweg, Bahndamm Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61099578147878, 50.0787118584213]},
+        "properties": {"name": "Zur Waldau"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61055250427154, 50.1403122860561]},
+        "properties": {"name": "Margarete-Schütte-Lithotzky Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61156429149727, 50.1362880148302]},
+        "properties": {"name": "Siedlung Westhausen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61165275200731, 50.1460967345294]},
+        "properties": {"name": "Eberstadtstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61167940530432, 50.1445325114872]},
+        "properties": {"name": "Ludwig-Gehm-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6120451846798, 50.121788228211]},
+        "properties": {"name": "Solmspark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6123172349373, 50.1261943995438]},
+        "properties": {"name": "Thudichumstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61244078570053, 50.1611131452664]},
+        "properties": {"name": "Vogelschutzgehölz Paul-Kornfeld-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61370698924447, 50.0838184658624]},
+        "properties": {"name": "zwischen Am Hofgut und Morgenzeile"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61387284621592, 50.0840437773723]},
+        "properties": {"name": "Am Hofgut Goldstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61361389228077, 50.1232049401344]},
+        "properties": {"name": "Brentanopark Auf der Insel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6136066585689, 50.1397381158192]},
+        "properties": {"name": "Ludwig-Landmamm-Strasse/Lehmkuhle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61354779793103, 50.1626721504206]},
+        "properties": {"name": "Gerhard- Hauptmann Ring Tiefgarage 24 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61427434543224, 50.0792802011682]},
+        "properties": {"name": "Grünstreifen am K.G.V. Schwarzbach e. V."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61402642915014, 50.1118964614643]},
+        "properties": {"name": "Rebstockpark westlicher Teil"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61428433962321, 50.0919656765531]},
+        "properties": {"name": "zwischen Schöffenstraße und Am Wingertsgrund"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61403106301557, 50.1426254149275]},
+        "properties": {"name": "Heinrich-Lübke-Strasse Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61445378057476, 50.1213557222754]},
+        "properties": {"name": "Rebstöcker Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61409422967187, 50.1660722888358]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring, Tiefgarage 21 d"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61422847198344, 50.166782965738]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring, Tiefgarage 21 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61524660566746, 50.090467475025]},
+        "properties": {"name": "Bürgermeister-Schubert-Park Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61484879336378, 50.1644835153546]},
+        "properties": {"name": "Gerhard-Hauptmann-Ring vor Hausnummer 198-210"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61487477818883, 50.1629912165697]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring,Tiefgarage 24b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61518847063251, 50.1413436414728]},
+        "properties": {"name": "Praunheimer Hohl Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61546720277927, 50.1083050995729]},
+        "properties": {"name": "Hof der KFZ-Zulassungsstelle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6152035926344, 50.1603851267601]},
+        "properties": {"name": "Paul-Kornfeld-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61546899081519, 50.1464870227003]},
+        "properties": {"name": "Damaschkeanger"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61567896024607, 50.1237691924369]},
+        "properties": {"name": "Brentanopark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61572352379302, 50.1251898122003]},
+        "properties": {"name": "Niddainsel Am Brentano"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61571417047057, 50.1612858443218]},
+        "properties": {"name": "Gerhard- Hauptmann Ring,Tiefgarage 26"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6159481092105, 50.1460570734685]},
+        "properties": {"name": "Adlerwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61645956928642, 50.1013228704676]},
+        "properties": {"name": "Bischofsheimer Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61622408051197, 50.1640205726356]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring Tiefgarage 22 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61650783038152, 50.1372933758829]},
+        "properties": {"name": "Nidda/ Altarm 7"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61704467927397, 50.0822741835029]},
+        "properties": {"name": "Boseweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61673016130874, 50.1409801361018]},
+        "properties": {"name": "Nidda/ Altarm 8"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61682653758927, 50.1359189099176]},
+        "properties": {"name": "Ludwig- Landmann-Strasse zwischen Altarm 7 und Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61715179526471, 50.1144330943509]},
+        "properties": {"name": "Zum Rebstockbad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61724754738544, 50.1076816559657]},
+        "properties": {"name": "Schmidtstrasse Kreisel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61751026367959, 50.0781940769429]},
+        "properties": {"name": "Schwanheim Flur 37 Flurstueck 8448/8 Herrnwiesen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6169965033366, 50.1444153102524]},
+        "properties": {"name": "Nidda/Altarm 9"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61729727436306, 50.1312634777894]},
+        "properties": {"name": "Alexanderstraße Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61765564910241, 50.1178780558041]},
+        "properties": {"name": "Biegwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61734857573893, 50.1616598404664]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring Tiefgarage 25 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61771665663224, 50.1277766135551]},
+        "properties": {"name": "Kullmannwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61741634015159, 50.1689511707992]},
+        "properties": {"name": "Vogelschutzgehölz 29 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61751932370293, 50.1648159878467]},
+        "properties": {"name": "Grünverbindung Thomas- Mann Strasse - Weisskirchener Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61787028755021, 50.1242888717323]},
+        "properties": {"name": "Priessnitzstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61759325587906, 50.1660748686785]},
+        "properties": {"name": "Gerhard- Hauptmann- Ring, Tiefgarage 21"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61831282220666, 50.1389805090327]},
+        "properties": {"name": "Am Niddatal Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61818945851471, 50.1650249683447]},
+        "properties": {"name": "Weißkirchener Weg Verkehrsgrün"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61864577647356, 50.1622035223118]},
+        "properties": {"name": "Gerhart-Hauptmann-Ring /Thomas-Mann-Strasse Grünverbindung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61928106024146, 50.1015659043696]},
+        "properties": {"name": "Marxheimer Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61905038197915, 50.1482699111422]},
+        "properties": {"name": "Sandplackenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61903344114282, 50.1556868432028]},
+        "properties": {"name": "Vogelschutzgehölz Flur 12 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61906919501816, 50.1599933040752]},
+        "properties": {"name": "Gerhard- Hauptmann Ring Tiefgarage 28 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61905467953279, 50.1794302000008]},
+        "properties": {"name": "Vogelschutzgehölz Nummer 21 Niederursel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61962441710306, 50.1217503656326]},
+        "properties": {"name": "Ludwig-Landmann-Strasse südlich Sportplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61958433310217, 50.1356312943986]},
+        "properties": {"name": "Nidda/ Altarm 6"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61950074639847, 50.1638065939329]},
+        "properties": {"name": "Thomas-Mann Straße Einkaufszentrum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61954618776002, 50.1686614863539]},
+        "properties": {"name": "Obermühlgasse/Dorfwiesenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61961735784756, 50.1649847010095]},
+        "properties": {"name": "Weißkirchner Weg Tiefgarage 19"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.61975927194012, 50.1612092518732]},
+        "properties": {"name": "Gerhard- Hauptmann Ring Tiefgarage 29 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62038739470615, 50.1419720889515]},
+        "properties": {"name": "Am Treutengraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62028693452374, 50.1652655897]},
+        "properties": {"name": "Am Birnbäumchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62040759788773, 50.1588649102124]},
+        "properties": {"name": "Gerhard- Hauptmann Ring Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62075916194693, 50.1568792068539]},
+        "properties": {"name": "Rudolf- Hilferding- Straße Tiefgarage 37"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62108547680499, 50.1332897289735]},
+        "properties": {"name": "Hausener Obergasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62158658945156, 50.0945609508102]},
+        "properties": {"name": "Grünstreifen Kleyerstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62125932694204, 50.1449327441565]},
+        "properties": {"name": "Nidda Praunheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62164019051638, 50.1055024030033]},
+        "properties": {"name": "Anspacher Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62188333722096, 50.1296602401045]},
+        "properties": {"name": "Ludwig-Landmann-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62208711443864, 50.1375274296649]},
+        "properties": {"name": "An der Luhe Kriegerdenkmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62209845647979, 50.1680494882257]},
+        "properties": {"name": "Seibertsgasse am Urselbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62248587320319, 50.1401808671024]},
+        "properties": {"name": "An der Litzelwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62283193479266, 50.1050477713054]},
+        "properties": {"name": "Kronthaler Str."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62263202462458, 50.1322698677352]},
+        "properties": {"name": "Am Spritzenhaus"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62254389951264, 50.1452515858159]},
+        "properties": {"name": "Nidda/ Altarm 10"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62269425889809, 50.1314699315773]},
+        "properties": {"name": "Hausen Am Strandbad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62262205678291, 50.1673229788873]},
+        "properties": {"name": "Karl- Kautzky Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62284628864578, 50.1655076735029]},
+        "properties": {"name": "Niederurseler Landstrasse Verkehrsgrün"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62353905095688, 50.0897304727319]},
+        "properties": {"name": "Griesheimer Ufer (Mainvorland oestlich Autobahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62323521290934, 50.1498568606908]},
+        "properties": {"name": "Graebestrasse und an der Kirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62327559692633, 50.1571840738214]},
+        "properties": {"name": "Heilmannstraße Tiefgarage 34"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62384667629289, 50.1111285424373]},
+        "properties": {"name": "Rebstockpark östlicher Teil"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62347117898569, 50.1607898087325]},
+        "properties": {"name": "Praunheimer Weg Tiefgarage 32"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62370256477064, 50.1651868005579]},
+        "properties": {"name": "Eduard- Bernstein Weg Tiefgarage 36 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62372326431308, 50.1643327921971]},
+        "properties": {"name": "Oswaltstraße Tiefgarage 36 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62440038009023, 50.0832242209477]},
+        "properties": {"name": "Niederrad Bürostadt zw. Lyoner Strasse und Goldsteinstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62386770319488, 50.1619778092182]},
+        "properties": {"name": "Martin- Luther- King- Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62465482818943, 50.1168400266423]},
+        "properties": {"name": "Vogelschutzgehölz Ludwig-Landmann-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62459379533554, 50.1300106644022]},
+        "properties": {"name": "Fischstein Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62488360382671, 50.1215606929935]},
+        "properties": {"name": "Rödelheimer Landstraße hinter Hausnummer 90 bis 124"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62511372364249, 50.0974583010377]},
+        "properties": {"name": "Ackermannstraße (Friedrich-Ebert-Siedlung)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62493099706232, 50.1333921134346]},
+        "properties": {"name": "Hausen Alter Friedhof und Ehrenmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62524945252366, 50.1338066958284]},
+        "properties": {"name": "Hausen nördlich Alter Friedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62546539450494, 50.1258509582251]},
+        "properties": {"name": "Industrie Hausen Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62554776988079, 50.1314252239973]},
+        "properties": {"name": "Hausener Obergasse / Bachmannstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62584875899197, 50.130491200751]},
+        "properties": {"name": "Peter-Zenger-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62578485178179, 50.1512406163428]},
+        "properties": {"name": "Fritz-Lennig-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62651246734074, 50.1404546026705]},
+        "properties": {"name": "Niddapark Zugangsweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62673620617544, 50.1494546095948]},
+        "properties": {"name": "Nidda Altarm 11"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6275805081446, 50.0965582108209]},
+        "properties": {"name": "Ackermannstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62734904606319, 50.1588154619444]},
+        "properties": {"name": "Rhein-Main Schnellweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62788243228484, 50.1531982465889]},
+        "properties": {"name": "Im Weimel, Tiefgarage 7 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62843333874323, 50.1543327857192]},
+        "properties": {"name": "Bernadottestrasse Tiefgarage 7 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6286061094311, 50.1609322019094]},
+        "properties": {"name": "Hammarskjöldring Tiefgarage 9 c"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62885277618746, 50.1579931704013]},
+        "properties": {"name": "Bernadottestrasse Tiefgarage 35"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62941462330445, 50.1051948288669]},
+        "properties": {"name": "Hellerhof-Siedlung Schneidhainer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62938511143299, 50.1108316866492]},
+        "properties": {"name": "Buzzinstrasse / Zeppelin Gedenkstein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62922706201086, 50.1530227403531]},
+        "properties": {"name": "In der Römerstadt, Tiefgarage 1"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6293909737137, 50.1607818737561]},
+        "properties": {"name": "Hammarskjöldring, Tiefgarage 9 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62940052044861, 50.1613572816244]},
+        "properties": {"name": "Hammarskjöldring,TG 9 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62949946332043, 50.157608652743]},
+        "properties": {"name": "Bernadottestrasse Tiefgarage 8 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62996235152658, 50.1012318260838]},
+        "properties": {"name": "Gustavsburgplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62988093832474, 50.1299377293559]},
+        "properties": {"name": "Grünstreifen am Parkplatz K.G.V.Bockenheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.62950312991686, 50.1879148107189]},
+        "properties": {"name": "Fasanenweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63002114173261, 50.1661690530557]},
+        "properties": {"name": "Herzbergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63019226736129, 50.1585008976007]},
+        "properties": {"name": "Bernadottestrasse Tiefgarage 8 d"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63071264808686, 50.1545288496954]},
+        "properties": {"name": "Im Weimel Grünverbindung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63074473467184, 50.1576305981325]},
+        "properties": {"name": "Walter-Schwagenscheidt-Platz, Tiefgarage 8 c"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63134190030243, 50.1127079070639]},
+        "properties": {"name": "Friedrich-Naumann-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6315142855897, 50.1175722294996]},
+        "properties": {"name": "Voltastrasse Pocketpark West"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63175741752384, 50.1332701110528]},
+        "properties": {"name": "Hausen Langweidenstr. Kreisel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63182803194967, 50.1623449396108]},
+        "properties": {"name": "Schwarzer Platz- Hammerskjöldring Grünverbindung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63206786301467, 50.1639189963908]},
+        "properties": {"name": "Niederurseler Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63256210574747, 50.1487359796771]},
+        "properties": {"name": "Nidda Altarm 12 Nachtigallenwäldchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63242064120039, 50.1671925694317]},
+        "properties": {"name": "In den Stegwiesen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63258527730088, 50.1511904017706]},
+        "properties": {"name": "Römerstadt Bastionen Im Burgfeld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63237909576465, 50.1908547597289]},
+        "properties": {"name": "Zum Bergwerk"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63272111461962, 50.149896229889]},
+        "properties": {"name": "Große Niederwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63312348610112, 50.1174065075021]},
+        "properties": {"name": "Voltastrasse Pocketpark Mitte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63293800096818, 50.1599480494975]},
+        "properties": {"name": "Schwarzer Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6336576716555, 50.076699797586]},
+        "properties": {"name": "Hahnstrasse Parkplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63356588106074, 50.1418795547771]},
+        "properties": {"name": "Volkspark Niddatal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63397753587597, 50.1245924783812]},
+        "properties": {"name": "Bolzplatz Schönhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63443819861934, 50.0677478108665]},
+        "properties": {"name": "An der S-Bahn Stadion"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63434130329452, 50.0878410492907]},
+        "properties": {"name": "Schwanheimer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63424110514775, 50.1046796991502]},
+        "properties": {"name": "Quäkerplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63467640720593, 50.1172855378888]},
+        "properties": {"name": "Voltastrasse Pocketpark Ost"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63476180931915, 50.1060568625949]},
+        "properties": {"name": "Idsteiner Strasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63513062589982, 50.1127108815802]},
+        "properties": {"name": "Funckstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63526735743813, 50.1554422673541]},
+        "properties": {"name": "Ernst-Kahn Strasse Tiefgerage 3 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63611976017181, 50.0873341841282]},
+        "properties": {"name": "Haardtwaldplatz Spielpl. Nr. 78"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63636321640842, 50.0865527832688]},
+        "properties": {"name": "Haardtwaldplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63584034859013, 50.1850130194917]},
+        "properties": {"name": "Am Hasensprung Grünfläche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63645629305125, 50.1167337219085]},
+        "properties": {"name": "Galvanistr./Voltastrasse Kinderspielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6364379267686, 50.1246990995692]},
+        "properties": {"name": "Rödelheimer Strasse Spielplatz Nr. 86"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63657055004978, 50.1256524892102]},
+        "properties": {"name": "Kirchplatz Ochsengraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63655830129914, 50.1549698284687]},
+        "properties": {"name": "Ernst-Kahn Strasse Tiefgarage 3 b"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63659406814597, 50.1502500413406]},
+        "properties": {"name": "Baumhain südlich der Geschwister-Scholl-Schule"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63654424217678, 50.1660547894364]},
+        "properties": {"name": "Obere Wiesen am Urselbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63660410399382, 50.1600045264934]},
+        "properties": {"name": "Tacitusstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63728470620504, 50.1218248417774]},
+        "properties": {"name": "Bernuspark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63718041845097, 50.1559696941335]},
+        "properties": {"name": "Rosa- Luxemburg Strasse( von Titusstrasse bis In der Römerstadt)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63712252275352, 50.1876511687875]},
+        "properties": {"name": "Freizeitpark Kalbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63734532514227, 50.1748677438482]},
+        "properties": {"name": "Crutzenkirchweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63779584597278, 50.1245055549989]},
+        "properties": {"name": "Appelsgasse Spielplatz Nr. 161"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63809865370813, 50.1232928046444]},
+        "properties": {"name": "Kaufunger Strasse Spielplatz Nr. 470"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63775739707936, 50.1685039293811]},
+        "properties": {"name": "Louis-Pasteur-Strasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63830929870273, 50.1046115275426]},
+        "properties": {"name": "Frankenallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63853411976684, 50.0858762920621]},
+        "properties": {"name": "Melibocusstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63792635416007, 50.186898497067]},
+        "properties": {"name": "Kalbacher Stadtpfad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63848594502878, 50.1182863954823]},
+        "properties": {"name": "Alter Friedhof Bockenheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63873316166699, 50.1244545322844]},
+        "properties": {"name": "Appelsgasse Nord (Spielplatz Nr. 129)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63893320610714, 50.1536286920765]},
+        "properties": {"name": "Am Forum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63928014777786, 50.1242404645155]},
+        "properties": {"name": "Grempstrasse Spielplatz 464"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63902157482941, 50.1660535229588]},
+        "properties": {"name": "Walter-Abschlag-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63917883348957, 50.1767703946706]},
+        "properties": {"name": "Prozessionsweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63957839422188, 50.1236300481297]},
+        "properties": {"name": "Hülya Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63982377160558, 50.0946459195763]},
+        "properties": {"name": "Erntestrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63992604927489, 50.0828598461033]},
+        "properties": {"name": "August-Belz-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6398565498362, 50.1014607198288]},
+        "properties": {"name": "Kleyerstrasse Ecke Lahnstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63963077397843, 50.1501785889037]},
+        "properties": {"name": "Arboretum an der Nidda Rosa- Luxemburg-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63984812690361, 50.1230914651384]},
+        "properties": {"name": "Kleine Seestrasse Spielplatz Nr. 376"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63987553234871, 50.1324864361884]},
+        "properties": {"name": "An der Schwanenwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6400681930422, 50.1179856383153]},
+        "properties": {"name": "Ohmstraße 16 und 16 a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64005039461054, 50.1240900185813]},
+        "properties": {"name": "Grempstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6401432929554, 50.1247555906255]},
+        "properties": {"name": "Hans-Eick-Weg Spielplatz Nr.8"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.63994038535282, 50.1760265667484]},
+        "properties": {"name": "Grünzug Crutzenkirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64135066231442, 50.0810571862645]},
+        "properties": {"name": "Rudolf-Menzer-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64101324692379, 50.1262326960282]},
+        "properties": {"name": "Konrad-Broßwitz-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64071820383818, 50.1749771156198]},
+        "properties": {"name": "Am Bonifatiusbrunnen Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64122718691918, 50.1144470306792]},
+        "properties": {"name": "Theodor-Heuss-Allee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64085093682117, 50.1647376238852]},
+        "properties": {"name": "Buber - Neumann - Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64079091021994, 50.1727477583571]},
+        "properties": {"name": "Durchgang Marie-Curie-Strasse/Olof-Palme-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64089362119938, 50.1609079019537]},
+        "properties": {"name": "Cohausenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64077975238397, 50.177971057937]},
+        "properties": {"name": "Bonifatiuspark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64157581255097, 50.0770931166012]},
+        "properties": {"name": "Waldfriedstrasse - Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64178854912999, 50.0785412272552]},
+        "properties": {"name": "Paul -Gerhard Ring - Spielplatz Nr. 434"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64109233253656, 50.1885715118366]},
+        "properties": {"name": "Kalbacher Hauptstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64221420489432, 50.0795404736507]},
+        "properties": {"name": "Willemineallee - Bolzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64164506569547, 50.1670955248879]},
+        "properties": {"name": "Urselbachaue Renaturierung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64224643045254, 50.0902301436371]},
+        "properties": {"name": "Im Mainfeld (Spielplatz)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64166403893315, 50.1832780299767]},
+        "properties": {"name": "Vogelschutzgehölz Kätcheslachmulde"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64189696789337, 50.1558584650842]},
+        "properties": {"name": "In der Römerststadt vor Haus 72"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6423053358437, 50.1348763769313]},
+        "properties": {"name": "Hinter Ginnheimer Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64247947749868, 50.120887973587]},
+        "properties": {"name": "Kurfuerstenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64256536974061, 50.124376485642]},
+        "properties": {"name": "Hessenplatz (Spielplatz135)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6428804326366, 50.0857728654424]},
+        "properties": {"name": "Kandelstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64266753048412, 50.1519770365523]},
+        "properties": {"name": "Hadrianstrasse an der Nidda"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64325056777126, 50.0792020273839]},
+        "properties": {"name": "Willemineallee - Gruenverbindung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6429549443097, 50.1641147906347]},
+        "properties": {"name": "Zeilweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64291324621505, 50.1903751672329]},
+        "properties": {"name": "Im Brombeerfeld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64321909396285, 50.1511875868423]},
+        "properties": {"name": "Ginnheim gegenüber Hadrianstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64332355782873, 50.1409030126673]},
+        "properties": {"name": "Reichelstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64385324322319, 50.0864860936725]},
+        "properties": {"name": "Bruchfeldstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64340577147686, 50.1543077880362]},
+        "properties": {"name": "Römerstadt Bastionen An der Ringmauer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64336723198013, 50.1895854217055]},
+        "properties": {"name": "Heckenrosenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64421553382086, 50.088510040482]},
+        "properties": {"name": "Niederräder Kirchpfad Strassenspielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64420585756129, 50.1369949364214]},
+        "properties": {"name": "August-Scheidel-Str."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64392946927297, 50.1779987338321]},
+        "properties": {"name": "Pissaroweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64479913338503, 50.0870643755389]},
+        "properties": {"name": "Bruchfeldplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64420561452451, 50.1879427803897]},
+        "properties": {"name": "Kalbacher Hauptstrasse Verkehrsgrün"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64516029894572, 50.1214176340718]},
+        "properties": {"name": "Rohmerplatz Platz, Rohmerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64512918686032, 50.129409937367]},
+        "properties": {"name": "Margarete-und-Fritz-Kahl-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64529724623486, 50.1066649013397]},
+        "properties": {"name": "Hellerhofstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64521342113717, 50.1671963793065]},
+        "properties": {"name": "An der Sandelmühle nördlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64556314650181, 50.1217784773406]},
+        "properties": {"name": "Rohmerplatz Spielplatz 330"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6452103993963, 50.1770586767371]},
+        "properties": {"name": "Grünzug am Zubringer zur A661"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6454732960359, 50.1566605786415]},
+        "properties": {"name": "In der Römerstadt 21"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64564249128325, 50.1602751846934]},
+        "properties": {"name": "Karl-Perotte-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64616247651168, 50.093577571869]},
+        "properties": {"name": "Licht- und Luftbad Niederrad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64636715256541, 50.07525578567]},
+        "properties": {"name": "Carl von Weinbergpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64601704667429, 50.1550349965929]},
+        "properties": {"name": "Römerstadt Grünanlagen an der Nidda"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64676240037718, 50.089911324884]},
+        "properties": {"name": "Elli-Lucht-Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6462250477895, 50.1723598709344]},
+        "properties": {"name": "Riedwiesen NSG"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64659155767786, 50.1397352719104]},
+        "properties": {"name": "Ginnheimer Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64725648715278, 50.1063651968387]},
+        "properties": {"name": "Gutenbergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64739103162178, 50.1204085204794]},
+        "properties": {"name": "Leipziger Ladengalerie"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.647875537019, 50.1191693245135]},
+        "properties": {"name": "Adalbertstr. Kinderspielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64846202832541, 50.096353590197]},
+        "properties": {"name": "Sommerhoffpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64785043126891, 50.1873785092465]},
+        "properties": {"name": "Kalbacher Hauptstrasse/Landesstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64848319176619, 50.1297527780365]},
+        "properties": {"name": "Lilienthalallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64819446697532, 50.1843858046658]},
+        "properties": {"name": "Kalbach In den Seewiesen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64878887521691, 50.1166458057674]},
+        "properties": {"name": "Theodor-W.-Adorno- Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64883467616634, 50.118030456034]},
+        "properties": {"name": "Gräfstraße/Kiesstraße(Spielplatz)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64936998093171, 50.1270583627044]},
+        "properties": {"name": "Zeppelinallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64989015674833, 50.0768128108619]},
+        "properties": {"name": "Waldfriedstrasse/Golfstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64939589704435, 50.157967082743]},
+        "properties": {"name": "Heddernheim Stiftsgarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6494160369281, 50.1647817667223]},
+        "properties": {"name": "An der Sandelmühle Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64926756929261, 50.1965438305616]},
+        "properties": {"name": "Am Martinszehnten Grünzug am Frischemarkt"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.64996791258533, 50.1486189159778]},
+        "properties": {"name": "Am Ginnheimer Hang rechts"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65041334116342, 50.087476990129]},
+        "properties": {"name": "Rennbahnstrasse Ecke Bruchfeldstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65045776102658, 50.0852115471308]},
+        "properties": {"name": "Rennbahnstrasse Knotenpunkt"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65028778348526, 50.1316102303399]},
+        "properties": {"name": "Ginnheimerhöhe zwischen Frauenlobstrasse und A 66"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65012512884876, 50.1635072869105]},
+        "properties": {"name": "An der Sandelmühle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65067403173794, 50.138111385882]},
+        "properties": {"name": "Am Eisernen Schlag bis Rebgärten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6510626233703, 50.1135240212389]},
+        "properties": {"name": "Merkurbrunnen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65075108610895, 50.1601917617771]},
+        "properties": {"name": "Maybachbrücke 1. Abschnitt"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65154799217128, 50.1448926958875]},
+        "properties": {"name": "Ginnheimer Hohl Kirchplatz und alter Friedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65157778148187, 50.1504218129096]},
+        "properties": {"name": "Am Rotzlöffel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65203904713299, 50.1138326223786]},
+        "properties": {"name": "Ludwig-Erhard-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65181923510386, 50.1672703057715]},
+        "properties": {"name": "Gegen das Feld an der Nidda"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65227899790217, 50.1482662452877]},
+        "properties": {"name": "Höhenblick"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65255183899137, 50.1163874138785]},
+        "properties": {"name": "Senckenberganlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65289116780295, 50.1332722568574]},
+        "properties": {"name": "Ginnheimer-Höhe"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65291556241468, 50.1705010880554]},
+        "properties": {"name": "Das Heilige Gewann A661"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65304870688059, 50.1540403085665]},
+        "properties": {"name": "An der Hecke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65318690283809, 50.2026329750787]},
+        "properties": {"name": "Anna-Lindh-Allee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65405020652029, 50.1529285006608]},
+        "properties": {"name": "Höllbergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65464858555875, 50.1009032968636]},
+        "properties": {"name": "Heilbronner Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65447994615306, 50.1593128751039]},
+        "properties": {"name": "Maybachstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65491625461054, 50.1122858778914]},
+        "properties": {"name": "Friedrich-Ebert-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65462842038346, 50.1911477769157]},
+        "properties": {"name": "Am Martinszehnten Grünzug am Sunflower"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65556712833611, 50.1014544367849]},
+        "properties": {"name": "Heidelbergerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65579990796329, 50.1079821243337]},
+        "properties": {"name": "Güterplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6557560218057, 50.1180062252917]},
+        "properties": {"name": "Christuskirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65629915456407, 50.11440270884]},
+        "properties": {"name": "Beethovenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65627664826581, 50.1273127553935]},
+        "properties": {"name": "Frauenlobstrasse/Ecke Miquelallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65619164362982, 50.1391797134994]},
+        "properties": {"name": "Platenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65632274266252, 50.1462644544741]},
+        "properties": {"name": "Fritz-von-Unruh Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65632612433991, 50.1770291563639]},
+        "properties": {"name": "Am Burghof alter Hubschrauberlandeplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65649827104878, 50.1569184577967]},
+        "properties": {"name": "Eschersheimer Landstrasse / Am Weissen Stein"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65678930369591, 50.1416717937956]},
+        "properties": {"name": "Sudermannstrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65729439128842, 50.0905272596624]},
+        "properties": {"name": "Buchenrode Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65767266564439, 50.1021619105093]},
+        "properties": {"name": "Spielplatz Schönstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65817814567382, 50.0979109585239]},
+        "properties": {"name": "Karpfenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65845615866813, 50.1020563331206]},
+        "properties": {"name": "Schönstrasse 7 Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65868385071458, 50.1073882824833]},
+        "properties": {"name": "Saar Caree Niddastrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65848649816498, 50.162651120975]},
+        "properties": {"name": "Lachweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65836952879217, 50.1810268488708]},
+        "properties": {"name": "Am Burghof Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65848239775526, 50.1966162293409]},
+        "properties": {"name": "Zuericher Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65896984911003, 50.1655294247517]},
+        "properties": {"name": "Birkholzweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65976238352831, 50.0893208162158]},
+        "properties": {"name": "Buchenrodestrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65937278547885, 50.1482153403734]},
+        "properties": {"name": "Chamissostrasse/ Theodor-Storm-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65963639582103, 50.1327527994278]},
+        "properties": {"name": "Miquelanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65958713885889, 50.1436399109945]},
+        "properties": {"name": "Marie-Bittorf-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65974056210136, 50.1377876763423]},
+        "properties": {"name": "Platenstraße Bolzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.65969584908881, 50.1815521746858]},
+        "properties": {"name": "Grünanlage Ludwig Ruppel Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66044689577723, 50.1031949558251]},
+        "properties": {"name": "Behördenzentrum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66086449298235, 50.1014610370934]},
+        "properties": {"name": "Rottweiler Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.661070533809, 50.1019740890306]},
+        "properties": {"name": "Gutleutstrasse 147"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66094415420991, 50.1535331942499]},
+        "properties": {"name": "Am Lindenbaum Ecke Eschersheimer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66118701192454, 50.1270754539203]},
+        "properties": {"name": "Grüneburgpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66084209555658, 50.1877408045637]},
+        "properties": {"name": "Ben- Gurion-Ring Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.661319539313, 50.1598184902993]},
+        "properties": {"name": "Anne-Frank-Strasse Zehnmorgenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66184448438418, 50.1131513491812]},
+        "properties": {"name": "Westendplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66185236927479, 50.1179881733077]},
+        "properties": {"name": "Lindenstrasse 40"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66145433400168, 50.184326303359]},
+        "properties": {"name": "Gruenzug suedlich der U-Bahn Bonames"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66182507714978, 50.1794097248058]},
+        "properties": {"name": "Brandhöfchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66220795408556, 50.1489248614684]},
+        "properties": {"name": "Fontanestrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66218670035554, 50.1698181848503]},
+        "properties": {"name": "Vogelschutzgehölz Flur 15 Bonameser Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66271844827034, 50.1539249411204]},
+        "properties": {"name": "Am Lindenbaum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66277730040177, 50.1455551577599]},
+        "properties": {"name": "Adalbert-Stifter-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66308111107914, 50.1202213463554]},
+        "properties": {"name": "Eppsteiner Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66321397555189, 50.1371594875069]},
+        "properties": {"name": "Rollschuhbahn an der Platenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66286421168393, 50.1988585967861]},
+        "properties": {"name": "Adam-Heinstadt-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66317640805976, 50.1684095884723]},
+        "properties": {"name": "Auf der Steinkaute Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6635420332492, 50.1182987517201]},
+        "properties": {"name": "Odina-Bott-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6636966605348, 50.0982147626978]},
+        "properties": {"name": "Theodor-Stern-Kai Tiefkai"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66367127030504, 50.1437596911998]},
+        "properties": {"name": "Jean-Paul-Strasse (Teil der Klimschanlage)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66366632269084, 50.1584318163708]},
+        "properties": {"name": "Ehemaliger Landwehrgraben Eschersheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66406318656074, 50.1097594384602]},
+        "properties": {"name": "Karlsplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66417693764062, 50.0974879331009]},
+        "properties": {"name": "Carl-von-Noorden-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66419263041983, 50.1032418087914]},
+        "properties": {"name": "Baseler Straße u. Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66435608311913, 50.0858459176271]},
+        "properties": {"name": "Moerfelder Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66428283186165, 50.1143361575652]},
+        "properties": {"name": "Elsa-Brändström-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66378093413626, 50.1999490678253]},
+        "properties": {"name": "Wilhelm-Floegel-Ring"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66378138639249, 50.2098562677917]},
+        "properties": {"name": "Am Eschbach Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66417276870597, 50.1620473689436]},
+        "properties": {"name": "Im Geeren Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66398887309716, 50.2042469861703]},
+        "properties": {"name": "Gladiolenstraße westlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66440464450566, 50.1689076067655]},
+        "properties": {"name": "Bonameser Strasse Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66486516870537, 50.1070196995482]},
+        "properties": {"name": "Hauptbahnhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66514158808394, 50.0974457668775]},
+        "properties": {"name": "Ludwig-Rhenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66485201424684, 50.144958812634]},
+        "properties": {"name": "Hans Burggraf Anlage Grillparzer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66521073108493, 50.1015635515814]},
+        "properties": {"name": "Westhafenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66533905265276, 50.0951807638871]},
+        "properties": {"name": "Paul-Ehrlicher-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66479864024969, 50.182618865136]},
+        "properties": {"name": "Homburger Landstrasse 646"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66505749308625, 50.1535990683364]},
+        "properties": {"name": "Dehnhardtstrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66532972735826, 50.1205964509437]},
+        "properties": {"name": "Altkoenigsbrunnen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66571428222673, 50.1838261940795]},
+        "properties": {"name": "Am Wendelsgarten Bonames"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6658406221228, 50.1857864274356]},
+        "properties": {"name": "Gruendreieck an Homburger Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66625037813375, 50.1551038776446]},
+        "properties": {"name": "Am Lindenbaum beim Wasserturm"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66657218107652, 50.1229015479562]},
+        "properties": {"name": "Simon-Bolivar-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66646395864447, 50.1445139375719]},
+        "properties": {"name": "Klimsch-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66629321123572, 50.1831266201774]},
+        "properties": {"name": "Im Storchenhain"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66614395290076, 50.2045408838377]},
+        "properties": {"name": "Gladiolenstrasse östlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66626021015092, 50.1959016305391]},
+        "properties": {"name": "Homburger Landstrasse Naturwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66740751984697, 50.1597551664199]},
+        "properties": {"name": "Anne-Frank-Siedlung Eschersheimer Feld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66792634086603, 50.0868271437092]},
+        "properties": {"name": "Louisa"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66737367465501, 50.1666506006601]},
+        "properties": {"name": "Ebereschenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66779927617304, 50.1415869283205]},
+        "properties": {"name": "Anzengruberstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66771416234574, 50.1861783801154]},
+        "properties": {"name": "Friedrich-Fauldrath-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6681485620037, 50.20027627983]},
+        "properties": {"name": "Albert-Schweitzerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66833402449305, 50.1917001475997]},
+        "properties": {"name": "Heinrich-Berbalk-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66877137951142, 50.1628786848686]},
+        "properties": {"name": "Im Waldfeld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66889027968792, 50.15579469264]},
+        "properties": {"name": "Burgholzer Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66936976496842, 50.1755476553092]},
+        "properties": {"name": "Homburger Landstrasse Lindenallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66994775028168, 50.1180294412118]},
+        "properties": {"name": "Rothschildpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66966545675547, 50.1793603580688]},
+        "properties": {"name": "Nordpark Bonames"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66978626687811, 50.1983930018404]},
+        "properties": {"name": "Deuil-La-Barre-Str. vor dem Konsum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.66983007552052, 50.2001641969248]},
+        "properties": {"name": "Görlitzerstrasse Grünstreifen entlang U-Bahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6705012914099, 50.1127536859107]},
+        "properties": {"name": "Taunusanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67035113277045, 50.1346267152133]},
+        "properties": {"name": "Edinger Weg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6707209641357, 50.0868261115654]},
+        "properties": {"name": "Aussiger Straße Kreisel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67036640147815, 50.1507283741498]},
+        "properties": {"name": "Reinhardstraße und Grünfläche vor der Andreaskirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67104645277501, 50.0841838618564]},
+        "properties": {"name": "Stresemannalle am Bahnhf. Louisa"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67099841496573, 50.0993684641371]},
+        "properties": {"name": "Schreyerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67060191330086, 50.1653292401965]},
+        "properties": {"name": "Ligusterweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67090943629926, 50.1470349071253]},
+        "properties": {"name": "Friedlebenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6710486838351, 50.1328486119273]},
+        "properties": {"name": "Duisbergstrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67093373646839, 50.1557285766546]},
+        "properties": {"name": "Ziegenhainerstrasse nordöstlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67067150882393, 50.2020455370533]},
+        "properties": {"name": "Tannenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67141490097847, 50.1018240111388]},
+        "properties": {"name": "Liebighaus"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67145577369743, 50.1265026028395]},
+        "properties": {"name": "Bremer Strasse /Ecke Eschersheimer Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67157756913718, 50.1107428980065]},
+        "properties": {"name": "Taunustor"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67202824910988, 50.091828460087]},
+        "properties": {"name": "Stresemannallee im Bereich Riedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67132395461121, 50.1988199009651]},
+        "properties": {"name": "Am Rathaus Nieder-Eschbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67191645568315, 50.1163897882278]},
+        "properties": {"name": "Alte Oper"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6721337272603, 50.1050445894412]},
+        "properties": {"name": "Nizza"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6718703403172, 50.1517755043805]},
+        "properties": {"name": "Waldecker Strasse Grünanlage bei Andreaskirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67235369312411, 50.1096842296596]},
+        "properties": {"name": "Gallusanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67176088003448, 50.2045478946726]},
+        "properties": {"name": "Auf dem Ried"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67184561830653, 50.2064900163554]},
+        "properties": {"name": "Vogelschutzgehölz Heinrich Becke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67238556201194, 50.141896633416]},
+        "properties": {"name": "Grünzug an der Fritz- Tarnow-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67199639018266, 50.2028853728457]},
+        "properties": {"name": "Am Ehrenmal Nieder- Eschbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6724177445016, 50.1822450253016]},
+        "properties": {"name": "Harheimer Weg gegenueber Hs. Nr. 42a"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67303848345194, 50.1035547416964]},
+        "properties": {"name": "Schaumainkai von Friedensbruecke bis Untermainbrücke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67268518295295, 50.1676905752375]},
+        "properties": {"name": "Wickenweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67322193030382, 50.1361721689958]},
+        "properties": {"name": "Bertramstrasse/Eschersheimer Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67308908839163, 50.1577215117943]},
+        "properties": {"name": "Im Waldfeld"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67291443721952, 50.1997234091775]},
+        "properties": {"name": "Rudolf-Breitscheid-Strasse Parkplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67354251037163, 50.1075478751888]},
+        "properties": {"name": "Untermainanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67337109187582, 50.1450819720162]},
+        "properties": {"name": "Sinai Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67372394553503, 50.1219958551083]},
+        "properties": {"name": "Koerner Strasse Spielplatz Nr. 463"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67378720253981, 50.1229759781199]},
+        "properties": {"name": "Körnerwiese"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67365966544639, 50.1684664783443]},
+        "properties": {"name": "Wickenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67375215059338, 50.1672170927737]},
+        "properties": {"name": "Berkersheimer Weg Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67418767131208, 50.1072350247727]},
+        "properties": {"name": "Jüdisches Museum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67442506327051, 50.0928331358285]},
+        "properties": {"name": "Riedhofweg Tiroler Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67444664952296, 50.1515130444148]},
+        "properties": {"name": "Elisabeth- Schwarzhaupt- Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67501613577074, 50.0901556606734]},
+        "properties": {"name": "Beuthener Str."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67500114617998, 50.1006383852568]},
+        "properties": {"name": "Otto-Hahn-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67480566716424, 50.1439622106207]},
+        "properties": {"name": "Adolf-Reichweinstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67510110210108, 50.1994688274748]},
+        "properties": {"name": "Bieberpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67572777761871, 50.1296522280741]},
+        "properties": {"name": "Eysseneckstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67582730760503, 50.1169851414675]},
+        "properties": {"name": "Bockenheimer Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67581783185067, 50.1515168789178]},
+        "properties": {"name": "Gebrüder-Hommel-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67624582775478, 50.0984572045955]},
+        "properties": {"name": "Thorwaldsenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67652398035005, 50.0820505480365]},
+        "properties": {"name": "Lerchesberg Briandring"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67637116400605, 50.1130488913242]},
+        "properties": {"name": "Rathenauplatz-Goetheplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67660037649872, 50.0935404630358]},
+        "properties": {"name": "Riedhof Tiroler Park Grünzug"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67635287688408, 50.1427258714155]},
+        "properties": {"name": "Marbachanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67689707023154, 50.1076111984139]},
+        "properties": {"name": "Untermainbrücke Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67687410150811, 50.1380343879496]},
+        "properties": {"name": "Bertramswiese/Parkplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67721848701831, 50.1097068425545]},
+        "properties": {"name": "Weissfrauenstrasse/Bethmannstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67733741309275, 50.1148945988055]},
+        "properties": {"name": "Börsenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67751343846136, 50.0990900568125]},
+        "properties": {"name": "Holbeinstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67743996158906, 50.1162793951261]},
+        "properties": {"name": "Taubenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67742016809747, 50.2003473379542]},
+        "properties": {"name": "Am Strudel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6780445415326, 50.1095203382447]},
+        "properties": {"name": "vor dem Karmeliterkloster"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67812824497019, 50.1262335947807]},
+        "properties": {"name": "Holzhausenpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67824206012983, 50.109251175322]},
+        "properties": {"name": "Karmeliterkloster Innenhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67847120596139, 50.1084336885911]},
+        "properties": {"name": "Innenstadt Mainufer/Mainkai"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67843476742971, 50.1284910130767]},
+        "properties": {"name": "Klettenbergstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67794187086073, 50.2019130801203]},
+        "properties": {"name": "Albert- Einsteinstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67888276952671, 50.0928725191841]},
+        "properties": {"name": "Breslauer Straße Am Bahndamm"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6787984398179, 50.1117610208031]},
+        "properties": {"name": "Weissadlergasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67906940772701, 50.1109616295825]},
+        "properties": {"name": "Bundesrechnungshof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6793980114175, 50.0784803441915]},
+        "properties": {"name": "Lerchesberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67931982465986, 50.1174263729322]},
+        "properties": {"name": "Eschenheimer Tor"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67960218724011, 50.1065398511334]},
+        "properties": {"name": "Schaumainkai von Untermainbrücke bis Eiserner Steg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67960862449687, 50.1118621523917]},
+        "properties": {"name": "Innenstadt Kornmarkt"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.67980896233883, 50.1300411431498]},
+        "properties": {"name": "Frauensteinplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6799591834051, 50.1096065432631]},
+        "properties": {"name": "Buchgasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68033409748874, 50.1057866787678]},
+        "properties": {"name": "Museumspark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6803121776663, 50.1111808252801]},
+        "properties": {"name": "Paulskirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6808214523065, 50.0829255171621]},
+        "properties": {"name": "Lerchesberg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68054874490404, 50.138664882313]},
+        "properties": {"name": "Kaiser-Sigmundstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68005031809991, 50.213372408344]},
+        "properties": {"name": "Deuil-la-Barre-Strasse Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68068641352431, 50.1263845007506]},
+        "properties": {"name": "Kastanienallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6810565854097, 50.1127651716656]},
+        "properties": {"name": "Liebfrauenstrasse Neue Kräme"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68112114893391, 50.1093580098486]},
+        "properties": {"name": "Alte Mainzer Gasse 15"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68117867762198, 50.1091154285164]},
+        "properties": {"name": "Mainufer/Mainkai 37-38"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68152455247941, 50.0590399481054]},
+        "properties": {"name": "Tannenwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68093931895865, 50.1514501454686]},
+        "properties": {"name": "Georg-Esser-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68138252301219, 50.1099970415376]},
+        "properties": {"name": "Innenstadt Limpurgergasse/Fried-Lübbecke-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68162972100813, 50.1127757345187]},
+        "properties": {"name": "Liebfrauenberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68196880888684, 50.0721132232447]},
+        "properties": {"name": "Oberschweinstiegschneise 65"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68118579449203, 50.1922395713351]},
+        "properties": {"name": "Die Honigwiesen auf den Honigberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68170812847916, 50.1241487157446]},
+        "properties": {"name": "Adlerflychtplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68182319686642, 50.1257762787626]},
+        "properties": {"name": "Paul-Hindemith-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6821223163972, 50.0953807540709]},
+        "properties": {"name": "Ziegelhüttenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68215281620703, 50.120347026791]},
+        "properties": {"name": "Sternplätzchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68212231416373, 50.1481809264052]},
+        "properties": {"name": "Eckenheimer Landstrasse Kirchgarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68219457007636, 50.1668359316064]},
+        "properties": {"name": "Petunienweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68255615654933, 50.1185590547101]},
+        "properties": {"name": "Eschenheimer Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68296524033368, 50.1095428653417]},
+        "properties": {"name": "Saalhof Kapelle/ Historisches Museum"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68317368259076, 50.0800550354352]},
+        "properties": {"name": "Lerchesberg An den Tennisplätzen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6830585292211, 50.1038792013129]},
+        "properties": {"name": "Oppenheimer Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68342257614162, 50.1165116242358]},
+        "properties": {"name": "Stephanstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68368376382263, 50.1108214530456]},
+        "properties": {"name": "Braubachstraße Technisches Rathaus"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68380973584195, 50.1171689730676]},
+        "properties": {"name": "Petersfriedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68369286464331, 50.1688538369508]},
+        "properties": {"name": "Berkersheimer Weg Ami-Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68420273091831, 50.1105621454537]},
+        "properties": {"name": "Römerberg Historischer Garten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68425010735668, 50.1097351628419]},
+        "properties": {"name": "Saalgasse / Am Geistpförtchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68478386804267, 50.1072193164234]},
+        "properties": {"name": "Dreikönigskirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68493902345805, 50.0963503989773]},
+        "properties": {"name": "Mittlerer Hasenpfad Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68485446976124, 50.1092423355259]},
+        "properties": {"name": "Fahrtorwerft"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68471745238064, 50.1365006194223]},
+        "properties": {"name": "Hauptfriedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68467060578816, 50.1649097732951]},
+        "properties": {"name": "Jasminweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68513696866007, 50.1130639961984]},
+        "properties": {"name": "Im Trierischen Hof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68520093315022, 50.1075710711414]},
+        "properties": {"name": "Sachsenhaeuser Ufer von Eiserner Steg bis Alte Bruecke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68535025125092, 50.1167865724988]},
+        "properties": {"name": "Klaus-Mann-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68511284702665, 50.152980889768]},
+        "properties": {"name": "Heinrich-Wilhelm-Römer-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6855854995655, 50.1000741600465]},
+        "properties": {"name": "Diesterwegplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68563758320189, 50.1113392073682]},
+        "properties": {"name": "Köppler-Höfchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68564240819908, 50.1106020125413]},
+        "properties": {"name": "Domgarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68566056533967, 50.109963747465]},
+        "properties": {"name": "Große Fischerstraße linker Innenhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6854816323085, 50.1436859368394]},
+        "properties": {"name": "Dörpfeldstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68570393261213, 50.1481906718039]},
+        "properties": {"name": "Kirschwäldchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68602825811713, 50.1114571385802]},
+        "properties": {"name": "Hainerhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68626121668839, 50.1100372943491]},
+        "properties": {"name": "Große Fischerstraße Mittelhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68632336461101, 50.1112241871653]},
+        "properties": {"name": "Kannengießergasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68586136720493, 50.1860940052158]},
+        "properties": {"name": "Nieder-Eschbacher Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68636777002921, 50.1108467128141]},
+        "properties": {"name": "Weckmarkt"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68643090849695, 50.1097410713561]},
+        "properties": {"name": "Weckmarkt/ Mainblock"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68644731709778, 50.1136519130518]},
+        "properties": {"name": "Fahrgasse Ecke Staufenmauer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68650495729276, 50.1069632549639]},
+        "properties": {"name": "Löher Strasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68677769912767, 50.110155562861]},
+        "properties": {"name": "Große Fischerstraße rechter Innenhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68678689796499, 50.1130324961317]},
+        "properties": {"name": "An der Staufenmauer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68686078114541, 50.1038445639816]},
+        "properties": {"name": "Alter Friedhof Sachsenhausen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68680300962871, 50.1191369750083]},
+        "properties": {"name": "Eschenheimer Anlage II"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68709924791463, 50.1080077376911]},
+        "properties": {"name": "Maininsel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68676964913389, 50.1842354805884]},
+        "properties": {"name": "Spitzenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68733085593988, 50.1110830584359]},
+        "properties": {"name": "Fahrgasse 4-20 (Gagfa-Hof)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68729717789977, 50.120549787717]},
+        "properties": {"name": "Scheffelstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68761771414336, 50.1142664097017]},
+        "properties": {"name": "Konstabler Wache"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68771586295559, 50.1120730315717]},
+        "properties": {"name": "Dominikaner Kloster"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68746308841486, 50.1573475180662]},
+        "properties": {"name": "Flutgraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68759355876832, 50.169538659744]},
+        "properties": {"name": "VSG Am Ulmenrück"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68813781633289, 50.1289040537432]},
+        "properties": {"name": "Nordendplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68780925534269, 50.1836988648083]},
+        "properties": {"name": "Haintalstrasse Umspannanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68827918010534, 50.1243643238962]},
+        "properties": {"name": "Weberstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68843372501327, 50.1070133970949]},
+        "properties": {"name": "Deutschordenshaus"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68860423705281, 50.0979605691896]},
+        "properties": {"name": "Ossietzkystrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68870041802244, 50.1305687703758]},
+        "properties": {"name": "Nibelungenallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68961347587518, 50.0975047626456]},
+        "properties": {"name": "Grethenweg Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68955576639134, 50.1194140751872]},
+        "properties": {"name": "Hessendenkmal / Friedberger Landstrasse 19-29"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68975517471074, 50.0928751038954]},
+        "properties": {"name": "Darmstädter Lanndstraße Mailänder Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68964357875332, 50.1274606464437]},
+        "properties": {"name": "Glauburgplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6900166860362, 50.10432951904]},
+        "properties": {"name": "Affentorplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69005328280332, 50.1073234023902]},
+        "properties": {"name": "Sachsenhäuser Ufer von Alte Brücke bis Ignatz-Bubis-Brücke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.68967148071216, 50.1858525171367]},
+        "properties": {"name": "Die Mühlwiesen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6899719167649, 50.1848643944383]},
+        "properties": {"name": "Harheim Ehrenmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69057107615075, 50.0963835229869]},
+        "properties": {"name": "Darmstädter Landstraße von Wendelsplatz-Mailaender Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69051864961318, 50.147906919053]},
+        "properties": {"name": "Theobald-Ziegler-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69037069891938, 50.1816559465021]},
+        "properties": {"name": "Hermannspforte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69090084694924, 50.1189861269358]},
+        "properties": {"name": "Bethmann-Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69120242680981, 50.109052609482]},
+        "properties": {"name": "Schöne Aussicht"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69150313323678, 50.0883486137642]},
+        "properties": {"name": "Sachsenhaeuser Warte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69160049940404, 50.090596465495]},
+        "properties": {"name": "Darmstädter Landstraße Südfriedhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69155158339268, 50.1003958313751]},
+        "properties": {"name": "Wendelsplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69104802629624, 50.1830062837885]},
+        "properties": {"name": "Philipp-Schnellstrasse/Hessenpforte Denkmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69194030940719, 50.1029860849824]},
+        "properties": {"name": "Heisterstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69203403719094, 50.1232505504518]},
+        "properties": {"name": "Friedberger Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69205361263478, 50.1267388455164]},
+        "properties": {"name": "Friedberger Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69238487349099, 50.1165087361816]},
+        "properties": {"name": "Friedberger Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69265616046179, 50.1134437508862]},
+        "properties": {"name": "Allerheiligenstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69243521527407, 50.1522992650518]},
+        "properties": {"name": "Konrad-Hoenen-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69247775346555, 50.1805737242953]},
+        "properties": {"name": "Am Auweg, Umspannanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6930723217505, 50.109579006019]},
+        "properties": {"name": "Alte Stadtbibliothek"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6934818537478, 50.1023608392393]},
+        "properties": {"name": "Muelbruchstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69299564732591, 50.1849623250763]},
+        "properties": {"name": "In den Schafgärten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69305487488785, 50.1822744037767]},
+        "properties": {"name": "Harheimer Rathaus u. Alter Kirchplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69395560234999, 50.1069831278214]},
+        "properties": {"name": "Deutschherrnufer Tiefkai westlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69379624901518, 50.1560877649361]},
+        "properties": {"name": "Am Nonnenhof Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69418655849288, 50.1014456810694]},
+        "properties": {"name": "Offenbacher Landstraße 3-49"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69390076728736, 50.148482267752]},
+        "properties": {"name": "Auf der Platte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6942201973229, 50.1115329375438]},
+        "properties": {"name": "Obermainanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6942717738513, 50.1209998914403]},
+        "properties": {"name": "Merianstraße Ecke Elkenbachstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6945100417714, 50.0857403637033]},
+        "properties": {"name": "Babenhäuser Landstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69413500187916, 50.1512429002635]},
+        "properties": {"name": "Jaspertstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69422682762827, 50.1587859791055]},
+        "properties": {"name": "Oberwiesenstrasse Mulan-Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69460601931413, 50.1278064414648]},
+        "properties": {"name": "Rotlintstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69431763507377, 50.1840488074341]},
+        "properties": {"name": "Zur Untermuehle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69459169726576, 50.158625114087]},
+        "properties": {"name": "Am Lausberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69462152749474, 50.164927364889]},
+        "properties": {"name": "Trasse der Linie 39"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69459038807783, 50.1720115999103]},
+        "properties": {"name": "Am Herrenhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69508454536525, 50.1207233279655]},
+        "properties": {"name": "Merianplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69472893986577, 50.1832227879184]},
+        "properties": {"name": "Alt Harheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69522356144123, 50.1098364008051]},
+        "properties": {"name": "Obermainstrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69530482873353, 50.1146554344881]},
+        "properties": {"name": "Friedberger Anlage Jüdische Gedenkstätte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69531868901572, 50.1565322908357]},
+        "properties": {"name": "An den drei Hohen Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69574418946211, 50.1710706513532]},
+        "properties": {"name": "Im Klingenfeld Kriegerdenkmal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69595735860277, 50.1529108848879]},
+        "properties": {"name": "Karl-Kirchner-Siedlung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69662494003039, 50.127002603943]},
+        "properties": {"name": "Rothschildallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69666857779791, 50.1223097722974]},
+        "properties": {"name": "Luisenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69664229046909, 50.181771382045]},
+        "properties": {"name": "An der Pfarrwiese Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69668810567646, 50.1789575593024]},
+        "properties": {"name": "Vogelschutzgehölz An der Nidda Berkersheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69697773824098, 50.1575075788659]},
+        "properties": {"name": "Grünzug Gundelandstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69721580641589, 50.1264467462297]},
+        "properties": {"name": "Günthersburgallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69734183595124, 50.1086731959597]},
+        "properties": {"name": "Jenny-Apolant-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69783287251823, 50.0995043186802]},
+        "properties": {"name": "Hühnerweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69735745289059, 50.1815934423919]},
+        "properties": {"name": "An der Pfarrwiese mit Pumpstation"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69786923220428, 50.1048356919336]},
+        "properties": {"name": "Zum Apothekerhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69748175413759, 50.1818634729505]},
+        "properties": {"name": "Harheimer Stadtweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69811486916651, 50.0879883946912]},
+        "properties": {"name": "Sachsenhäuser Landwehrweg 137"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69802858805334, 50.1106168970974]},
+        "properties": {"name": "Martin-Elsässer-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69803473611591, 50.1296494291154]},
+        "properties": {"name": "Hallgartenstraße/Martin-Luther-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69812157591568, 50.1158405233065]},
+        "properties": {"name": "Alfred-Brehm-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69842319893449, 50.1012050301751]},
+        "properties": {"name": "Mariannenstr."}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69799912972147, 50.1708607685625]},
+        "properties": {"name": "Am Kalten Berg Buswendeschleife"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69843155457224, 50.1065543096086]},
+        "properties": {"name": "Deutschherrnufer Tiefkai östlich"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69845008710523, 50.10805574515]},
+        "properties": {"name": "Weseler Werft"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69854682832024, 50.1438644208341]},
+        "properties": {"name": "Walter-Kolb-Siedlung"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69891659863811, 50.1228370599428]},
+        "properties": {"name": "Heideplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69911212103912, 50.1318009084598]},
+        "properties": {"name": "Butzbacher Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.6992663070201, 50.1406747328426]},
+        "properties": {"name": "Friedberger Landstrasse 414 Friedberger Warte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69940282809114, 50.1367463272263]},
+        "properties": {"name": "Wasserpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69985875208856, 50.0951492480268]},
+        "properties": {"name": "Am Sandberg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70000018317933, 50.0881640976852]},
+        "properties": {"name": "Sachsenhäuser Landwehrweg 99-105"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69976841199798, 50.1431483614317]},
+        "properties": {"name": "Walter-Hesselbach-Strasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.69969285204549, 50.1842606088591]},
+        "properties": {"name": "Riedhalsstrasse Römerbrunnen und Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70047305853269, 50.1019745151094]},
+        "properties": {"name": "Offenbacher Landstrasse S-Bahnstation"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70065150943609, 50.0980102287435]},
+        "properties": {"name": "Steinhausenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70064448513861, 50.1058677781231]},
+        "properties": {"name": "Zum Laurenburger Hof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70063975199872, 50.1335399842472]},
+        "properties": {"name": "Wetteraustrasse (Spielplatz)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70100641246138, 50.1061114497884]},
+        "properties": {"name": "Deutschherrnufer Promenade"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70108096019242, 50.1008702680138]},
+        "properties": {"name": "Offenbacher Landstrasse 84-116"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70096499371029, 50.1554141878015]},
+        "properties": {"name": "Am Borsdorfer Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70070508871843, 50.2104876463466]},
+        "properties": {"name": "Alt Erlenbach Halfpipe"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70135115422886, 50.124857176445]},
+        "properties": {"name": "Germaniaplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70156321067508, 50.1537255552597]},
+        "properties": {"name": "Herrenapfelstrasse Spielplatz 2 Renettenstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70186249774221, 50.1438460068739]},
+        "properties": {"name": "Walter-Hesselbach-Strasse Spielplatz 2"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70240347861002, 50.0994711692629]},
+        "properties": {"name": "Am Muehlkanal"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70234255260497, 50.1837100327871]},
+        "properties": {"name": "Harheimer Ried"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70308379810402, 50.1228208163839]},
+        "properties": {"name": "Arnsburgerstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70314746805103, 50.1306155806101]},
+        "properties": {"name": "Günthersburgpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70400987250406, 50.1540554644342]},
+        "properties": {"name": "Herrenapfelstrasse Spielplatz 1"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70464624825006, 50.0961414721272]},
+        "properties": {"name": "Seehofpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70488669136537, 50.111605482316]},
+        "properties": {"name": "Hanauer Landstrasse (Ecke Sonnemannstrasse)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70530097396785, 50.1033264287237]},
+        "properties": {"name": "Strahlenberger Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70542110945667, 50.1270432257361]},
+        "properties": {"name": "Petterweilstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70560571488477, 50.1334268119777]},
+        "properties": {"name": "Comeniusstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70573299659077, 50.1195101297454]},
+        "properties": {"name": "Habsburger Allee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70526097852876, 50.2077393029536]},
+        "properties": {"name": "Am Alten Weg/ Alt Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70586330925458, 50.1142151566442]},
+        "properties": {"name": "Dörnigheimerstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70700239927273, 50.1291689385492]},
+        "properties": {"name": "Im Pruefling"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7075940124917, 50.2041940714205]},
+        "properties": {"name": "Lochmühlstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70813546581523, 50.2049865694221]},
+        "properties": {"name": "Zum Schäferköppel"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70915792119169, 50.2026966335537]},
+        "properties": {"name": "Am Bürgerbrunnen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70916788642669, 50.2033619328697]},
+        "properties": {"name": "Alt Erlenbach 42(Parkplatz am Rathaus)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70971043064108, 50.2132165333018]},
+        "properties": {"name": "Das Seyl Nieder-Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.70992005473817, 50.2017455777257]},
+        "properties": {"name": "Alte Fahrt 11"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71050867786774, 50.122884510844]},
+        "properties": {"name": "Wittelsbacher Allee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71192114722673, 50.1112095880791]},
+        "properties": {"name": "Osthafenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71179954937874, 50.1384589305983]},
+        "properties": {"name": "An der Ulmenklaue"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71146901748106, 50.1980544621413]},
+        "properties": {"name": "Bornweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71222413915569, 50.0886355621227]},
+        "properties": {"name": "Goetheturm"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71180992210815, 50.206569022737]},
+        "properties": {"name": "Freizeitpark Nieder-Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71197104006039, 50.2054006975563]},
+        "properties": {"name": "Parkplatz am Buergerhaus Nieder-Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71271445016515, 50.118817372137]},
+        "properties": {"name": "Luxemburgerallee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71247599709696, 50.165629210789]},
+        "properties": {"name": "Oberwiesenweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71216512340705, 50.2197135435758]},
+        "properties": {"name": "Butterwecksgewann"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71233461505845, 50.2101663969158]},
+        "properties": {"name": "Feldgehölze Am Kreuzberg Nieder-Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71307265648313, 50.1267297372639]},
+        "properties": {"name": "Pestalozziplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71331004274094, 50.105710936735]},
+        "properties": {"name": "Mainufer Gerbermühle bis Stadtgrenze"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71313915270684, 50.202149137071]},
+        "properties": {"name": "Am Steinberg Trafostation/ Alt Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71358466917186, 50.134669440665]},
+        "properties": {"name": "Nußbaumplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71406310937604, 50.0966145579237]},
+        "properties": {"name": "Alfred-Delp-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71395507853224, 50.135884043665]},
+        "properties": {"name": "Berger Straße Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71375439475083, 50.2046679081763]},
+        "properties": {"name": "An den Bergen Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71434202123078, 50.120223876753]},
+        "properties": {"name": "Parlamentsplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71400313019205, 50.2075813417415]},
+        "properties": {"name": "Feldgehölze Nieder-Erlenbach Flur 5"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71403614123241, 50.2067453355652]},
+        "properties": {"name": "Am Bier"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71497910780947, 50.0976956525155]},
+        "properties": {"name": "Balduinstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71486322543822, 50.1172223892685]},
+        "properties": {"name": "Lilli-Schoenemann-Steige"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71470269030834, 50.1442378624364]},
+        "properties": {"name": "Huthpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71526221928772, 50.1324619508564]},
+        "properties": {"name": "Eulengasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7149292363168, 50.2049674722787]},
+        "properties": {"name": "An den Bergen/Sitzplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71559485270076, 50.137695119445]},
+        "properties": {"name": "Galeriebauwerk Seckbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71657295844023, 50.0976006593856]},
+        "properties": {"name": "Georg-Treser-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71644493458674, 50.1263963867318]},
+        "properties": {"name": "Ernst-May-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71663336095736, 50.1039479948421]},
+        "properties": {"name": "Im Bärengarten"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7166862371656, 50.1186832829771]},
+        "properties": {"name": "Ostparkstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71707301689074, 50.1242312527852]},
+        "properties": {"name": "Karl-Flesch-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71759684456303, 50.1207622649479]},
+        "properties": {"name": "Röderberghang"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71807424413986, 50.0989888282906]},
+        "properties": {"name": "Spatzengasse (Bonn´sche Liegenschaft)"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71814644836298, 50.1009758714247]},
+        "properties": {"name": "Kochstraße Denkmal Grüne Soße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71935996875956, 50.0990099230837]},
+        "properties": {"name": "Wildgäßchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71926615252764, 50.129414993099]},
+        "properties": {"name": "Kettelerallee 72"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.71932314296578, 50.1268439025423]},
+        "properties": {"name": "Rose-Schlösinger-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72052244400655, 50.1370328071918]},
+        "properties": {"name": "Enkheimer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72057880205635, 50.1345606111947]},
+        "properties": {"name": "Herrenwäldchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7209444788904, 50.0884950181488]},
+        "properties": {"name": "Scheerwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72110415100257, 50.0995085942361]},
+        "properties": {"name": "Mathildenplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72091121742229, 50.1471478146089]},
+        "properties": {"name": "Hofhausstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72118333202063, 50.1412508420038]},
+        "properties": {"name": "Atzelbergplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72146733380573, 50.1405233099233]},
+        "properties": {"name": "Wilhelmshöherstraße An der Rosenkranzkirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72201804801046, 50.1203144239712]},
+        "properties": {"name": "Ostpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72201621916562, 50.1399492461645]},
+        "properties": {"name": "Wilhelmshöherstraße 50"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72192074284593, 50.2215443173542]},
+        "properties": {"name": "Aussichtsplatz Nieder-Erlenbach"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72299466689734, 50.0988748038213]},
+        "properties": {"name": "Waltraud-Müller-Alizadeh-Anlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72279844053443, 50.1425672891601]},
+        "properties": {"name": "Atzelberg Grünanlage"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72316280564357, 50.0963758859603]},
+        "properties": {"name": "Charlotte-Schiffler-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72337896081017, 50.0952436159057]},
+        "properties": {"name": "Hildegard-Schäder-Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72422901971276, 50.1005409565614]},
+        "properties": {"name": "Buchrainplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72513163449874, 50.1430942697809]},
+        "properties": {"name": "An der Marienkirche"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72579651489145, 50.1393558814528]},
+        "properties": {"name": "Sausee Fußweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72610831685233, 50.1435460908386]},
+        "properties": {"name": "Wilhelmshöherstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72698997154239, 50.1508662525681]},
+        "properties": {"name": "Lohrparkschaenke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72789744333144, 50.1388843362029]},
+        "properties": {"name": "Sausee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72822712303581, 50.0979521696461]},
+        "properties": {"name": "Melanchthonplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72814361249723, 50.1275301641346]},
+        "properties": {"name": "Johanna-Tesch-Platz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72845954073812, 50.150788784314]},
+        "properties": {"name": "Lohrpark"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72884478484813, 50.1049031529732]},
+        "properties": {"name": "Oberrad an der S-Bahn"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.72969679086947, 50.1298622782032]},
+        "properties": {"name": "Am Erlenbruch"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7304848508157, 50.0990992059515]},
+        "properties": {"name": "Schafheckplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73102752092007, 50.1294877744106]},
+        "properties": {"name": "Rümelinstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73109192335946, 50.1279775520858]},
+        "properties": {"name": "Raiffeisenstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73231851691752, 50.0961006685507]},
+        "properties": {"name": "Wiener Strasse Grünverbindung Waldfriedhof Oberrad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73239637670214, 50.129796606369]},
+        "properties": {"name": "Engelsplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73338614641686, 50.1605816024377]},
+        "properties": {"name": "Riederwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73440835967046, 50.0998094922874]},
+        "properties": {"name": "Berger Ehrensäule"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73429992912784, 50.1244697233441]},
+        "properties": {"name": "Grazer Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73566603887063, 50.1303345207944]},
+        "properties": {"name": "Lassallestrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73662904485794, 50.1332495656523]},
+        "properties": {"name": "Flinschstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73682148983366, 50.1440653207596]},
+        "properties": {"name": "N.S.G. Seckbacher Ried"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73840103959747, 50.1596939766299]},
+        "properties": {"name": "Berger Warte"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73864644550797, 50.1275003284342]},
+        "properties": {"name": "Thünenstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73857610099775, 50.1609530065546]},
+        "properties": {"name": "Jüdischer Friedhof Bergen-Enkheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73950309005003, 50.1319974044595]},
+        "properties": {"name": "Erlenbruch"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.73994371396161, 50.1281145808578]},
+        "properties": {"name": "Harkortstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7408979294011, 50.1249251537839]},
+        "properties": {"name": "KTZV Riederwald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7422192561207, 50.154901711942]},
+        "properties": {"name": "Im Rosenträger Spielplatz 494"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.74363911356601, 50.1562893541723]},
+        "properties": {"name": "Cunostrasse Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.74389195587703, 50.14562745144]},
+        "properties": {"name": "Voltenseeweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.745087769327, 50.1338438148107]},
+        "properties": {"name": "Teufelsbruch"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.74499765632535, 50.1534334400193]},
+        "properties": {"name": "Kirchgasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.74650830245352, 50.1535356388679]},
+        "properties": {"name": "Vilbeler Landstrasse 190 - 216"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.74936258954308, 50.1562479008709]},
+        "properties": {"name": "Landgraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75033742180402, 50.135644284706]},
+        "properties": {"name": "Wächtersbacherstr. An den Holzwiesen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75047003707441, 50.1343499673083]},
+        "properties": {"name": "Lauterbacherstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75049722329004, 50.1479523261317]},
+        "properties": {"name": "Florianweg 23"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75084905625881, 50.1529426810936]},
+        "properties": {"name": "Heinrich-Bingemer-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75103729498402, 50.1328498049829]},
+        "properties": {"name": "Wächtersbacherstrasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7510638373816, 50.1681726324365]},
+        "properties": {"name": "VSG Vilbeler Wald"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75145852980627, 50.1487365404712]},
+        "properties": {"name": "Florianweg Polizeirevier"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75146258414807, 50.1560546264576]},
+        "properties": {"name": "Schelmenburg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75183777348711, 50.1484496624603]},
+        "properties": {"name": "Florianweg Feuerwehr"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75187775254224, 50.1461302569492]},
+        "properties": {"name": "Beckerserlen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75278043589354, 50.1555719640359]},
+        "properties": {"name": "Gangstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75404468749967, 50.1546216795109]},
+        "properties": {"name": "Im Sperber"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75405824164189, 50.1519785702195]},
+        "properties": {"name": "Alfred-Göbel-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75503499783359, 50.1552440999058]},
+        "properties": {"name": "Am Königshof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75599318933081, 50.1539335378742]},
+        "properties": {"name": "Im Steinchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75645083167527, 50.1547436218352]},
+        "properties": {"name": "An der Stadtmauer"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75681559912395, 50.1545555904018]},
+        "properties": {"name": "Wäschbachquelle"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75698281188212, 50.1491707702742]},
+        "properties": {"name": "Röhrborngasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75722343370362, 50.1541518815002]},
+        "properties": {"name": "Am Bächelchen"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75839300619606, 50.1580830633898]},
+        "properties": {"name": "Marktplatz Bergen-Enkheim"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75867668149831, 50.1489855054412]},
+        "properties": {"name": "Bornweidstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75902218721016, 50.1247663811373]},
+        "properties": {"name": "Adam-Opel-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.75896176017882, 50.1535082019849]},
+        "properties": {"name": "Winzersteige"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76118801962187, 50.1532161207241]},
+        "properties": {"name": "Bachrain"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76134985225812, 50.151625176225]},
+        "properties": {"name": "Mönchhof"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7615511786859, 50.1420869085341]},
+        "properties": {"name": "Jean-Kempf-Weg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76171778969249, 50.1254372248216]},
+        "properties": {"name": "Leo-Gans-Strasse und Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76290435636538, 50.154172603958]},
+        "properties": {"name": "Fritz-Schubert-Ring / Speierlingweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76310124533594, 50.1256378412685]},
+        "properties": {"name": "An der Seehecke"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76330190004766, 50.1246493164625]},
+        "properties": {"name": "Bodenseestraße / Leo-Gans-Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76413693340521, 50.1226192049552]},
+        "properties": {"name": "Am Hennsee"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76498322822969, 50.1239874474863]},
+        "properties": {"name": "Bodenseestrasse Ecke Konstanzer Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76479894953545, 50.1701521295966]},
+        "properties": {"name": "VSG Eselsweg"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76570884128744, 50.1357662064826]},
+        "properties": {"name": "Kilianstädter Strasse"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76597024522659, 50.1251851512608]},
+        "properties": {"name": "Konstanzer Straße Grünverbindung Goetzstraße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76597596123308, 50.1440917484015]},
+        "properties": {"name": "Leuchte Spielplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7660845596864, 50.1505110221239]},
+        "properties": {"name": "Leuchte Parkplatz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76672050919902, 50.1377011546615]},
+        "properties": {"name": "Heinrich-Kraft-Park"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76699973140323, 50.1579747788146]},
+        "properties": {"name": "An der Ruhbank"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76716403215124, 50.1587212994312]},
+        "properties": {"name": "Am Hollgraben"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76821712829078, 50.1493016099704]},
+        "properties": {"name": "Am Enkheimer Ried"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.76896586882842, 50.1245618264338]},
+        "properties": {"name": "Alt Fechenheim 67-123"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77007689905071, 50.1174077414082]},
+        "properties": {"name": "Fechenheimer Leinpfad"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77157936557725, 50.1219418246446]},
+        "properties": {"name": "Alt Fechenheim 131"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77184053135619, 50.1170066546856]},
+        "properties": {"name": "Dietesheimer Straße"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77394399171912, 50.1127223835898]},
+        "properties": {"name": "Fechenheimer Leinpfad Feldgehölz 2"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77431716512159, 50.1523073785292]},
+        "properties": {"name": "N.S.G. Enkheimer Ried"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77501897165345, 50.1100633337482]},
+        "properties": {"name": "Fechenheimer Leinpfad Feldgehölz 1"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77800898393211, 50.1134494497431]},
+        "properties": {"name": "Fechenheimer Leinpfad Feldgehölz 3"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.7783282964506, 50.1169652752564]},
+        "properties": {"name": "Fechenheimer Leinpfad Feldgehölz 4"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77872280578827, 50.1678779789638]},
+        "properties": {"name": "Stegweidhof Vogelschutzgehölz"}
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point", "coordinates": [8.77920485236946, 50.1574232376509]},
+        "properties": {"name": "N.S.G. Berger Hang"}
+    }
+  ]
+}
